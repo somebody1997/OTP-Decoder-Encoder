@@ -1,4 +1,4 @@
-## OTP-Decod-Encod
+## OTP-Decoder-Encoder
 Welcome to the OTP-Decod-Encod project! This repository contains a C implementation of a simple yet powerful One-Time Pad (OTP) encryption and decryption program.
 
 Overview
